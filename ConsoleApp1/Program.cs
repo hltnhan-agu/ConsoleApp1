@@ -1,2 +1,2 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World! moi moi - toi la sinh vien");
+Console.WriteLine("Hello, World! moi moi - toi la sinh vien - lan 3");
